@@ -20,12 +20,12 @@
   },
   "require": {
     "php": ">=7.3",
-    "fzaninotto/faker": "^1",
+    "fakerphp/faker": "^1.10",
     "illuminate/container": "^8.0",
     "illuminate/database": "^8.0",
     "illuminate/pagination": "^8.0",
     "symfony/console": "^5",
-    "jgrossi/corcel": "^5.0"
+    "jgrossi/corcel": "^5.1"
   },
   "extra": {
     "acorn": {
