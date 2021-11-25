@@ -1,5 +1,5 @@
 {
-  "name": "tiny-pixel/acorn-db",
+  "name": "felly/acorn-db",
   "type": "package",
   "license": "MIT",
   "description": "Eloquent database support for Acorn projects",
