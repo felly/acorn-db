@@ -21,11 +21,11 @@
   "require": {
     "php": ">=7.3",
     "fzaninotto/faker": "^1",
-    "illuminate/container": "^7||^8.0",
-    "illuminate/database": "^7||^8.0",
-    "illuminate/pagination": "^7||^8.0",
+    "illuminate/container": "^8.0",
+    "illuminate/database": "^8.0",
+    "illuminate/pagination": "^8.0",
     "symfony/console": "^5",
-    "jgrossi/corcel": "^4.1||^5.0"
+    "jgrossi/corcel": "^5.0"
   },
   "extra": {
     "acorn": {
